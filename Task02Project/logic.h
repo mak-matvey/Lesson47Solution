@@ -1,0 +1,1 @@
+double calculate_arithmetical_mean_of_nonsero_elements(int* array, int size);
